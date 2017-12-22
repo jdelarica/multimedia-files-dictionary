@@ -28,9 +28,14 @@ Once the user clicks on the menu, the user can select whether he or she wants to
 			</div>
 
 The user can also select, once the category is chosen, the multimedia he or she wants to watch. Inside each of the items, a short synopsis with the directors and stars information is shown, together with a YouTube trailer. The main idea of the page is shown below.
-[IMG1](/images/Imagen 1.png)
+
+![img1](/images/Imagen1.png?raw=true "Home Page")
 
 # SAMSUNG TV 
 
 The application can be run in the Samsung TV. In this case, it is run in the Samsung TV simulator. A JavaScript with functions able to differentiate the pressed buttons in the remote is written. With this, the application can be run in a Samsung TV, and the user can select the shows, the trailer and the info with only the TV remote.
 In the images below we can observe a process the user follows in order to go and watch the trailer of the TV Show Sense8.
+
+![img2](/images/Imagen2.png?raw=true "Movies")
+![img3](/images/Imagen3.png?raw=true "TV Shows")
+![img4](/images/Imagen4.png?raw=true "Sene8")
