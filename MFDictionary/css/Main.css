@@ -1,0 +1,19 @@
+#display{
+	clear:both;
+	width: 400px;
+	height:100px;
+	margin-left:50px;
+	position:absolute;
+	bottom:50px;
+	border:1px solid #fff;
+	border-radius:5px;
+	text-align:center;
+	color:yellow;
+	fonr-weight:bold;
+	line-height:3em;
+}
+
+.selected{
+	background-image: -webkit-linear-gradient(bottom);
+	color: black;
+}
