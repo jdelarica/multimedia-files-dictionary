@@ -39,3 +39,4 @@ In the images below we can observe a process the user follows in order to go and
 ![img2](/images/Imagen2.png?raw=true "Movies")
 ![img3](/images/Imagen3.png?raw=true "TV Shows")
 ![img4](/images/Imagen4.png?raw=true "Sene8")
+
