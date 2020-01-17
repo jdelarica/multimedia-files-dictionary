@@ -1,7 +1,7 @@
 # Multimedia Files Dictionary
  
 
-| ![Javier de la Rica](/images/Javier.JPG) | ![Logo](/images/upc_etsetb.jpg) |
+| <img src="/images/img.jpeg" width="180"> | ![Logo](/images/upc_etsetb.jpg) |
 | :---: | :---: |
 | Javier de la Rica | delaricajavier@gmail.com |
 
