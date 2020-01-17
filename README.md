@@ -3,7 +3,7 @@
 
 | <img src="/images/img.jpeg" width="180"> | ![Logo](/images/upc_etsetb.jpg) |
 | :---: | :---: |
-| Javier de la Rica | delaricajavier@gmail.com |
+| Javier de la Rica | delaricajavier@outlook.com |
 
 # SMART TV
 
